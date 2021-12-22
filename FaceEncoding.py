@@ -5,7 +5,7 @@ import glob
 import numpy as np
 import pickle
 
-path = "images2/"
+path = "images1/"
 known_face_encodings = []
 known_face_names = []
 face_locker = {}
